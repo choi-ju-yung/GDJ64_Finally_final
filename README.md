@@ -23,11 +23,6 @@ IT학원의 업무 효율성을 극대화하고 강사들 간의 원활한 협�
 <br>
 <br>
 
-## :page_with_curl: 배포 주소
-http://14.36.141.71:10005/GDJ64_workit_final/
-<br>
-<br>
-
 ## 📌 내 기능 실행화면
 
 <details>
